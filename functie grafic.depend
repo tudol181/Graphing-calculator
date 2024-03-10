@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673172316 source:d:\info proiecte\functie grafic\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<string>
+	<cmath>
+	<iomanip>
+
